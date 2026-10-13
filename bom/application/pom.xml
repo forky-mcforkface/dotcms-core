@@ -32,7 +32,7 @@
         <langchain4j.version>1.15.1</langchain4j.version>
         <netty.version>4.1.138.Final</netty.version>
         <commonmark.version>0.22.0</commonmark.version>
-        <jsoup.version>1.21.1</jsoup.version>
+        <jsoup.version>1.23.2</jsoup.version>
     </properties>
     <dependencyManagement>
 

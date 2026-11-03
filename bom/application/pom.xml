@@ -616,7 +616,7 @@
                 <!-- Google Guava: Google Core Libraries -->
                 <groupId>com.google.guava</groupId>
                 <artifactId>guava</artifactId>
-                <version>32.0.1-jre</version>
+                <version>33.7.1-jre</version>
                 <exclusions>
                     <!-- checker-qual is a banned dependency in this project -->
                     <exclusion>
